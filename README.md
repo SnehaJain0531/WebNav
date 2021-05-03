@@ -1,6 +1,6 @@
 # WebNav 
 DS Project - Semester 3
-Implementation of Web Browser Navigation in C 
+Implementation of Simple Web Browser Navigation in C 
 
 Data Structure incorporated - Circular Doubly Linked List
 
